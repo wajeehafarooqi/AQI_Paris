@@ -9,6 +9,6 @@ scikit-learn==0.20.1
 matplotlib>=1.4.3
 pandas>=0.19
 numpy==1.19.5
-Werkzeug>=1.0.1
+Werkzeug==0.15.5
 
 
